@@ -375,7 +375,7 @@ cat <<EOF > /var/www/html/index.php
 <?php
 \$output = shell_exec('echo $HOSTNAME');
 echo "<h1><center><pre>\$output</pre></center></h1>";
-echo "<h1><center>www.sports.com - backend</center></h1>"
+echo "<h1><center> Terraform with ALB and S3 </center></h1>"
 ?>
 EOF
 
