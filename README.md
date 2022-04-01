@@ -82,7 +82,7 @@ $ vim provider.tf
 ```
 The Basic configuration for terraform aws is completed. Here I'm going to create the Application load balancer on an already created VPC. Therefore I'm using Terraform Module here.
 
-Click here, [How to set up VPC on AWS using Terraform]()
+Click here, [How to set up VPC on AWS using Terraform](https://github.com/radin-lawrence/Set-up-VPC)
 > Note: Module allows you to group resources together and reuse this group later, possibly many times.
 
 
