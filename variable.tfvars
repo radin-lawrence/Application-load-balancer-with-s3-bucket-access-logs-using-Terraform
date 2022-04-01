@@ -1,0 +1,6 @@
+region = "Desired region"
+access_key = "IAM user access_key"
+secret_key = "IAM user secret_key"
+project = "Your project name"
+cidr_blk = "VPC cidr block"
+subnet = "3"
